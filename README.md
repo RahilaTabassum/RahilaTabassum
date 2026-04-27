@@ -7,7 +7,7 @@
 
 * 🎓 Third-year CSE student (Data Science) at BIET
 * 📊 Consistently maintaining **9+ CGPA**
-* 💻 Solved **100+ DSA problems**
+* 💻 Solved **200+ DSA problems**
 * 🌐 Full Stack Developer (MERN Stack)
 * 🤖 Exploring AI (RAG, Agentic AI, Machine Learning)
 * 🚀 Open Source Contributor
