@@ -1,54 +1,77 @@
-# Hi 👋, I'm Rahila Tabassum
-
-🎓 CSE (Data Science) Student | 💻 Java & MERN Developer | 🚀 Open Source Contributor
-
-I’m a third-year engineering student with a strong foundation in Data Structures & Algorithms (100+ problems solved) and full-stack development using the MERN stack.
-
-I enjoy building real-world projects, working with data, and exploring AI concepts like LLMs and RAG systems. Currently contributing to open source and continuously improving my problem-solving and development skills.
+<h1 align="center">Hi 👋, I'm Rahila Tabassum</h1>
+<h3 align="center">CSE (Data Science) Student | Java Developer | MERN Stack | Open Source Contributor</h3>
 
 ---
 
-## 🌐 Connect with Me
+## 👩‍💻 About Me
 
-* LinkedIn: https://www.linkedin.com/in/rahila-tabassum
-* GitHub: https://github.com/RahilaTabassum
-* Email: [rahilatabassum2004@gmail.com](mailto:rahilatabassum2004@gmail.com)
+* 🎓 Third-year CSE student (Data Science) at BIET
+* 📊 Consistently maintaining **9+ CGPA**
+* 💻 Solved **100+ DSA problems**
+* 🌐 Full Stack Developer (MERN Stack)
+* 🤖 Exploring AI (RAG, Agentic AI, Machine Learning)
+* 🚀 Open Source Contributor
+
+I’m passionate about building real-world applications, working with data-driven solutions, and continuously improving my problem-solving and development skills.
 
 ---
 
-## 💻 Tech Stack
+## 💻 Technical Skills
 
-Java | Python | C | JavaScript
-MERN Stack (MongoDB, Express, React, Node.js)
-Power BI | Tableau | NumPy | Pandas | Scikit-learn
+**Programming:**
+Java, Python, C, JavaScript
+
+**Web Development:**
+MongoDB, Express.js, React.js, Node.js
+
+**Data Science & Visualization:**
+Pandas, NumPy, Matplotlib, Power BI, Tableau
+
+**AI & Machine Learning:**
+Machine Learning Algorithms, RAG Models, Agentic AI
+
+**Data Structures & Algorithms:**
+Arrays, Linked Lists, Trees, Graphs, Sorting & Searching
+
+**Tools & Technologies:**
+Git, GitHub, REST APIs, Tailwind CSS, Bootstrap
 
 ---
 
 ## 🚀 Projects
 
-* Wanderah – Full-stack travel booking platform (MERN)
-* Spotify Clone – Audio player with JavaScript
-* R-Clime – Weather app using APIs
+* 🌍 **Wanderah** – Full-stack travel booking platform (MERN)
+* 🎵 **Spotify Clone** – Audio player built with JavaScript
+* 🌦️ **R-Clime** – Real-time weather application using APIs
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=RahilaTabassum\&theme=dark\&hide_border=false)
-![](https://streak-stats.demolab.com/?user=RahilaTabassum\&theme=dark\&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=RahilaTabassum&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=RahilaTabassum&theme=tokyonight" />
+</p>
 
+---
 
-<!--
-**RahilaTabassum/RahilaTabassum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌐 Connect with Me
 
-Here are some ideas to get you started:
+* 🔗 LinkedIn: https://www.linkedin.com/in/rahila-tabassum
+* 💻 GitHub: https://github.com/RahilaTabassum
+* 📧 Email: [rahilatabassum2004@gmail.com](mailto:rahilatabassum2004@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Career Focus
+
+* Strengthening DSA for technical interviews
+* Contributing to impactful open-source projects
+* Building scalable full-stack and AI-based applications
+
+---
+
+### ✨ Personal Note
+
+> I enjoy simplifying complex coding concepts and sharing them in an easy-to-understand way.
+
